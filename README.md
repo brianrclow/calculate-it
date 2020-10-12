@@ -5,4 +5,4 @@ This project was originially created for an iOS course. The goal of this assignm
 
 Here is what the app looks like:
 
-![](assets/calculateit.gif)
+![](assets/calculateit.gif =250x)
